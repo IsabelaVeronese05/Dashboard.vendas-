@@ -2,6 +2,12 @@
 
 Este repositório contém um dashboard interativo de vendas desenvolvido no Power BI, com o objetivo de fornecer insights rápidos e claros sobre o desempenho comercial da empresa.
 
+
+## 🖼️ Exemplo do Dashboard
+
+![Captura de Tela (39)](https://github.com/user-attachments/assets/00e16494-d8c1-4b25-95fd-4f6e57d41196)
+
+
 ## 🎯 Objetivo
 
 Visualizar e analisar:
@@ -20,13 +26,10 @@ Visualizar e analisar:
 ## 🛠️ Como usar
 
 1. Baixe e instale o [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/).
-2. Clone este repositório ou baixe o arquivo `Dashboard.vendas.pbix`.
+2. Baixe o arquivo [Baixar o dashboard](Dashboard.vendas.pbix)
 3. Abra o arquivo `.pbix` no Power BI.
 4. Navegue entre as páginas do relatório e interaja com os filtros.
 
-## 📁 Arquivos
-
-- `Dashboard.vendas.pbix` — Arquivo principal do dashboard
 
 ## 🔒 Observações
 
